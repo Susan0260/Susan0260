@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Susan0260
 - 👀 I’m interested in ...Eating Healthy, improving Myself | Learning, Programing, nature, Art, cooking... ..  
-- 🌱 I’m currently learning ... Python using R studio , and Jupyter Notebook, Jupyter Lab for Data Science... ..
+- 🌱 I’m currently learning ... Python and R   ,Intermediate Statistics for Data Science... ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
